@@ -14,7 +14,7 @@ A segunda etapa consiste na integração do projeto no Drone.<br/>
 
 # Critérios de avaliação
 
-O projeto será multidisciplinar envolvendo as disciplinas de: <br/>
+O projeto será multidisciplinar e avaliado nas disciplinas de: <br/>
 
 * Engenharia de Software (ES)<br/>
 * Atividade prática supervisionada (APS)<br/>
