@@ -3,10 +3,10 @@
    define('LBASE_DIR',dirname(__FILE__));
    //Global defines and utility functions
    // version string
-   define('APP_VERSION', 'v6.0.34');
+   define('APP_VERSION', 'v1.0');
 
    // name of this application
-   define('APP_NAME', 'RPi Cam Control');
+   define('APP_NAME', 'APS WebRTC');
 
    // the host running the application
    define('HOST_NAME', php_uname('n'));

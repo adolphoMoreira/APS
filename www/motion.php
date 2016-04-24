@@ -124,7 +124,7 @@
 <html>
    <head>
       <meta name="viewport" content="width=550, initial-scale=1">
-      <title>RPi Cam Download</title>
+      <title>RPi webRTC Download</title>
       <link rel="stylesheet" href="css/style_minified.css" />
       <link rel="stylesheet" href="css/preview.css" />
       <link rel="stylesheet" href="<?php echo getStyle(); ?>" />
