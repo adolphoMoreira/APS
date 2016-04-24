@@ -18,7 +18,7 @@ color_reset="tput sgr0"
 # Version stuff moved out functions as we need it more when one time.
 versionfile="./www/config.php"
 version=$(cat $versionfile | grep "'APP_VERSION'" | cut -d "'" -f4)
-backtitle="Copyright (c) 2016, . RPi Cam $version"
+backtitle="Copyright (c) 2016, . webRTC APS $version"
 
 # Config options located in ./config.txt. In first run script makes that file for you.
 if [ ! -e ./config.txt ]; then
