@@ -190,7 +190,7 @@
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" <?php echo $displayStyle; ?>>
          <div class="container">
             <div class="navbar-header">
-               <a class="navbar-brand" href="#"><?php echo APS WEB RTC; ?></a>
+               <a class="navbar-brand" href="#"></a>
             </div>
          </div>
       </div>
