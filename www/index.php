@@ -179,7 +179,7 @@
 <html>
    <head>
       <meta name="viewport" content="width=550, initial-scale=1">
-      <title><?php echo CAM_STRING; ?></title>
+      <title><?php echo APS WEB RTC; ?></title>
       <link rel="stylesheet" href="css/style_minified.css" />
       <link rel="stylesheet" href="<?php echo getStyle(); ?>" />
       <script src="js/style_minified.js"></script>
@@ -190,7 +190,7 @@
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" <?php echo $displayStyle; ?>>
          <div class="container">
             <div class="navbar-header">
-               <a class="navbar-brand" href="#"><?php echo CAM_STRING; ?></a>
+               <a class="navbar-brand" href="#"><?php echo APS WEB RTC; ?></a>
             </div>
          </div>
       </div>
