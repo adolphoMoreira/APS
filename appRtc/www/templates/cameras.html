@@ -1,0 +1,9 @@
+<ion-view view-title="Câmeras ao vivo">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="camera in cameras" href="#/app/cameras/{{camera.id}}">
+        {{camera.title}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
